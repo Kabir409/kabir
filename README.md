@@ -19,4 +19,4 @@
 
 * cd kabir
 
-* Python2 kabir
+* Python2 kabir.py
