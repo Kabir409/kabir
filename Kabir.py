@@ -56,11 +56,11 @@ logo = """
 
 
 
-       facebook:Easin.Official10
+       WE ARE BD HACKERS
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1: md_easin
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
+\033[1;96mAuthor  \033[1;93m: \033[1;98mHACKER BOY KABIR
+\033[1;96mTEAM \033[1;93m: \033[1: Blank Mafiya 
+\033[1;96mFacebook  \033[1;93m: \033[1: Nam.to.sunai.hogaa
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Kabir409/Kabir
 \033[1;91m======================================="""
 
@@ -90,11 +90,12 @@ print  """\033[1;91m
 
 
 
-       Facebook:Smart Boy Easin
+      WE ARE LEGENGS
+      
  
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
+\033[1;96m Author  \033[1;93m: \033[1;92m HACKER BOY KABIR
+\033[1;96m TEAM \033[1;93m: \033[1;92 Blank Mafiya
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Nam.to.sunai.hogaa
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Kabir409/Kabir
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
@@ -104,7 +105,7 @@ CorrectPassword = "Kabir"
 
 
 
-"
+
 
 loop = 'true'
 while (loop == 'true'):
@@ -116,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open https://www.facebook.com/Nam.to.sunai.hogaa ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open https://www.facebook.com/Nam.to.sunai.hogaa  ')
 
 def login():
 	os.system('clear')
